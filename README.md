@@ -80,8 +80,6 @@ Generated images at the final epoch for each GAN:
 .
 ├── gan-loss-function-comparison.ipynb   # Jupyter Notebook with full experiment
 ├── README.md                            # GitHub Markdown file
-├── results/                             # Sample outputs and evaluation metrics
-└── requirements.txt                     # Dependencies
 ```
 
 ---
